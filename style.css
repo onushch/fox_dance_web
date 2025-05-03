@@ -1,0 +1,9 @@
+body {
+    background-color:#28000b ;
+    width: 430px;
+}
+
+.logo {
+    display: block;
+    margin:0 auto;
+}
